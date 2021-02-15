@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Capstone Num-a</string>
+    <string name="title_activity_geolocation">Map</string>
+</resources>
